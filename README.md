@@ -11,7 +11,7 @@ présentant le véhicule et ses caractéristiques. Cette landing page permettra 
 
 L’objectif pour votre client est de générer des **leads qualifiés** qui pourront ensuite être convertis en concession lors des essais.
 
-Le client impose l’__enregistrement des données clients__ dans **Mailchimp**. 
+Le client impose l’_enregistrement des données clients_ dans **Mailchimp**. 
 Il a besoin d’un nom, prénom, d’un email, d’un numéro de téléphone valide et d'un code postal.
 
 Les règles de bases du **SEO** devront être respectées. Les règles de la **RGPD** devront être appliquées.
@@ -23,3 +23,5 @@ La maquette a été réalisée et fournie par un webdesigner. L’objectif est d
 la maquette desktop devra être adaptée.
 
 Le développeur devra s'entretenir avec le webdesigner pour connaître le fonctionnement imaginé pour la page.
+
+Projet en groupe de 2 personnes.
