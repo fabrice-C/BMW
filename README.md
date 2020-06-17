@@ -1,4 +1,4 @@
-# Landing page BMW
+# Landing page MCAR
 
 ### Formation Simplon - projet : "Création d'une landing page statique avec une prise de rendez-vous en ligne". (groupe)
 
